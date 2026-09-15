@@ -30,4 +30,4 @@ skills/
 ## Credits
 
 - [`skill-creator`](https://github.com/anthropics/skills/tree/main/skills/skill-creator) - Anthropic, Apache 2.0.
-- [Pi](https://github.com/earendil-works/pi) - the coding harness these files are built for.
+- [Pi](https://github.com/earendil-works/pi) - the coding harness these files are built for, developed by @badlogicgames (Mario Zechner). You should read his blog on how he came up with this [minimal coding agent](https://mariozechner.at/posts/2025-11-30-pi-coding-agent/), it could serve as point of reference too while you build your own.
